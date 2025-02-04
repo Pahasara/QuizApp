@@ -6,11 +6,9 @@ This is our Web Development semester final project, a Quiz App designed to enabl
 
 QuizApp/<br>
 ├── src/<br>
-│   ├── components/<br>
-│   │   └── QuizCreator.jsx<br>
-│   │   └── QuizCreator.css<br>
 │   ├── pages/<br>
 │   │   └── AdminDashboard.jsx<br>
+│   │   └── AdminDashboard.css<br>
 │   ├── App.jsx<br>
 │   └── main.jsx<br>
 └── package.json<br>
